@@ -36,6 +36,8 @@ print("bilangan terbesar:",max)
 
 Melakukan perulangan dengan while, kemudian menambah satu variabel hitung setiap kali mengulang. lalu menanyakan kepada pengguna, apakah mau berhenti mengulang atau tidak?
 
+![screenshot 38](https://user-images.githubusercontent.com/46513142/52929736-3af90080-3378-11e9-91ae-309594590eb0.png)
+
 
 
 
