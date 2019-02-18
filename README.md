@@ -12,6 +12,7 @@ for x in range (1,6):
  ```
  Pengacakan, pembangkit bilangan acak, atau random dapat digunakan untuk berbagai macam hal. Salah satunya adalah untuk memecahkan kasus Monte Carlo. Nilai random kadang dibutuhkan juga untuk menentukan suatu pilihan. Atau digunakan juga untuk membuat id yang ditambahi dari string asal. Randomisasi juga dapat digunakan untuk mengacak suatu tampilan produk, atau digunakan saat proses pelatihan sebuah mesin cerdas.
  
+![screenshot 36](https://user-images.githubusercontent.com/46513142/52929534-616a6c00-3377-11e9-9ba9-6b595814625f.png)
 
  
 (latihan 2)
@@ -35,7 +36,7 @@ print("bilangan terbesar:",max)
 
 Melakukan perulangan dengan while, kemudian menambah satu variabel hitung setiap kali mengulang. lalu menanyakan kepada pengguna, apakah mau berhenti mengulang atau tidak?
 
-![screenshot 33](https://user-images.githubusercontent.com/46917932/52929024-1d766780-3375-11e9-8f08-aa9459ff4af3.png)
+
 
 
 (latihan 3)
